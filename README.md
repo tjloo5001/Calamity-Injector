@@ -10,6 +10,9 @@ This injector currently has 2 GUI's and the tool will be continued to be updated
 Also for anyone wondering there is obviously no virus, I have no malicious intent. I made this tool for myself but decided to share it. VirusTotal (MainTool, Currently Flagged by a few for obvious reasons.)- https://www.virustotal.com/gui/file/c6084452d460cbf24325687854ff903be2f327d54ce15de9edda505b61acab13/detection
 
 And also for the people who got the program flagged, that would mostly likely be the We Are Devs API geting flagged because its a 'Hack Tool'. This is fine obviously, just set it as allowed. There is also the main tool itself being flagged but it is not harmful, if it is flagged, set it to allowed.
+# Note
+I am currently updating the tool and have removed the old one. Updating may take some time due to issues with the API.
+
 # Errors
 If the tool has the error '404', this means that you have to delete the current api(dll) file and replace it with a new one you download from the original site at - 
 
