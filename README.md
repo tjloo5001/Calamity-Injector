@@ -11,7 +11,7 @@ Also for anyone wondering there is obviously no virus, I have no malicious inten
 
 And also for the people who got the program flagged, that would mostly likely be the We Are Devs API geting flagged because its a 'Hack Tool'. This is fine obviously, just set it as allowed. There is also the main tool itself being flagged but it is not harmful, if it is flagged, set it to allowed.
 # Note
-I am currently updating the tool and have removed the old one. Updating may take some time due to issues with the API.
+The tool has been removed due to API errors and updating. The tool will be re-released soon.
 
 # Errors
 If the tool has the error '404', this means that you have to delete the current api(dll) file and replace it with a new one you download from the original site at - 
